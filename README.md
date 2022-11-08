@@ -17,14 +17,15 @@ Skills:
     </td>
    </table>
 
-- 🔭 I’m currently working on my React school project and improve my skills 
-- 📫 How to reach me: Elistratova.Mari.22@yandex.ru
+I’m currently working on my React school project and improve my skills
+<br>
+How to reach me: Elistratova.Mari.22@yandex.ru
 
   <a href="https://t.me/Elis2508">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elistratovamaria&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elistratovamaria&show_icons=true&theme=react)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elistratovamaria)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elistratovamaria&theme=react)  
 
