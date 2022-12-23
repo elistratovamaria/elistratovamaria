@@ -20,7 +20,7 @@ Skills:
     </td>
    </table>
 
-I’m currently working on my React school project and improve my skills
+I’m currently working on my Node.js school project and improve my skills
 <br>
 How to reach me: Elistratova.Mari.22@yandex.ru
 
