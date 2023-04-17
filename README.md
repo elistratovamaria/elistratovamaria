@@ -42,4 +42,4 @@ How to reach me: Elistratova.Mari.22@yandex.ru
 | [Cat Energy](https://github.com/elistratovamaria/1756717-cat-energy-27) | Online store where you can buy cat's food | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
 | [Sedona](https://github.com/elistratovamaria/1756717-sedona-27) | Small town's site | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elistratovamaria&show_icons=true&theme=react)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elistratovamaria)](https://github.com/anuraghazra/github-readme-stats) 
