@@ -40,6 +40,6 @@ How to reach me: Elistratova.Mari.22@yandex.ru
 | [Keksobooking](https://github.com/elistratovamaria/1756717-keksobooking-26) | Website which shows the living-places where you can stay during your holidays in Japan | Vanilla JavaScript (ES6), Fetch API, Leaflet.js, Webpack|
  [What To Watch](https://github.com/elistratovamaria/1756717-what-to-watch-3) | REST API on Node.js + Typescript | Node.js, Typescript, Docker, Express, Cors |
 | [Cat Energy](https://github.com/elistratovamaria/1756717-cat-energy-27) | Online store where you can buy cat's food | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
-| [Sedona](https://github.com/elistratovamaria/1756717-sedona-27) | Small town's site | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
+| [Mishka](https://github.com/elistratovamaria/1756717-mishka-27) | The store of handmade toy's site | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elistratovamaria)](https://github.com/anuraghazra/github-readme-stats) 
