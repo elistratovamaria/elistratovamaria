@@ -17,11 +17,7 @@ I really enjoy making nice and comfortable interfaces, here you can see some of 
 </br>
 
 ### 👩🏻‍🎓 Currently learning:
-- Node.js;
-
-### 🚀 Future plans:
-- Next.js;
-- Nest.js;
+- Vue;
 
 </br>
 How to reach me: Elistratova.Mari.22@yandex.ru
