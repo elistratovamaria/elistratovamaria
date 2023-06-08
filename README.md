@@ -31,6 +31,7 @@ How to reach me: Elistratova.Mari.22@yandex.ru
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
+| [Task Force](https://github.com/elistratovamaria/1756717-taskforce-3) | Backend for freelance exchange | Nest.js, PostrgreSQL, MongoDB, Microservices, RabbitMQ |
 | [What To Watch](https://github.com/elistratovamaria/1756717-what-to-watch-11) | App on React + Redux + Typescript | SPA on React.js, Redux, Typescript, Fetch API, CRA |
 | [Big Trip](https://github.com/elistratovamaria/1756717-big-trip-18) | Webapp which helps to play your next trip. | SPA on Vanilla JavaScript (ES6), Fetch API,  Flatpickr.js, Webpack |
 | [Keksobooking](https://github.com/elistratovamaria/1756717-keksobooking-26) | Website which shows the living-places where you can stay during your holidays in Japan | Vanilla JavaScript (ES6), Fetch API, Leaflet.js, Webpack|
