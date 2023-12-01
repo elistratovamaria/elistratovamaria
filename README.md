@@ -9,16 +9,13 @@ I really enjoy making nice and comfortable interfaces, here you can see some of 
 |---------------------------------|------------------------------------|
 |   Responsive web-development:   | HTML5, CSS/SCSS/LESS               |
 |   Programming languages:        | Javascript, Typescript             |
-|   Frontend:                     | React                              |
-|   Backend:                      | Node.js, Express                   |
+|   Frontend:                     | React, Next.js                     |
+|   Backend:                      | Node.js, Express, Nest.js          |
 |   Code bundlers:                | Gulp, Webpack                      |
 |   UX/UI:                        | Figma                              |
+|   Additional:                   | GraphQL                            |
 
 </br>
-
-### 👩🏻‍🎓 Currently learning:
-- Vue;
-
 </br>
 How to reach me: Elistratova.Mari.22@yandex.ru
 <br>
